@@ -48,62 +48,62 @@ Logical data modeling that takes into account the organizational level of data. 
 
 This work was carried out as part of our end-of-studies project, which aimed to design and develop a mobile application for the management and tracking of orders for Moroccan grocers. We have successfully created this application, which will provide the opportunity to replace the supply chain and avoid being among the victims of system breakdown.
 
-Menu 
+### Menu 
 
 ![Alt text](workFiles/image.png) 
 
-Loading sales points 
+### Loading sales points 
 
 ![Alt text](workFiles/image-1.png) 
 
-List of grocers within the predefined area. 
+### List of grocers within the predefined area. 
 
 ![Alt text](workFiles/image-2.png)
 
-Automatic detection of current location 
+### Automatic detection of current location 
 
 ![Alt text](workFiles/image-3.png) 
 
-Select a sales point for more information.
+### Select a sales point for more information.
 
 ![Alt text](workFiles/image-4.png) 
 
-Usual product list 
+### Usual product list 
 
 ![Alt text](workFiles/image-5.png)
 
-Order box to place an order. 
+### Order box to place an order. 
 
 ![Alt text](workFiles/image-6.png) 
 
-List of available products. 
+### List of available products. 
 
 ![Alt text](workFiles/image-7.png) 
 
-Quantité de produit 
+### Quantité de produit 
 
 ![Alt text](workFiles/image-8.png)
 
-Modify the quantity of an order. 
+### Modify the quantity of an order. 
 
 ![Alt text](workFiles/image-9.png) 
 
-Order box ready for confirmation. 
+### Order box ready for confirmation. 
 
 ![Alt text](workFiles/image-10.png)
 
-Invoice generated automatically. 
+### Invoice generated automatically. 
 
 ![Alt text](workFiles/image-11.png)
 
-Trace the route and start the journey. 
+### Trace the route and start the journey. 
 
 ![Alt text](workFiles/image-12.png)
 
-Add a new sales point. 
+### Add a new sales point. 
 
 ![Alt text](workFiles/image-13.png)
 
-Sales point temporarily added. 
+### Sales point temporarily added. 
 
 ![Alt text](workFiles/image-14.png)
