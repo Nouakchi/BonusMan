@@ -4,7 +4,7 @@ This project aims to design and develop a mobile application for the management 
 
 # The supply chain, a complex network.
 
-![Alt text](readmeFiles/readmeFiles/image.png)
+![Alt text](readmeFiles/image.png)
 
 # Solution
 
