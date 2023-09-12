@@ -38,8 +38,8 @@ Logical data modeling that takes into account the organizational level of data. 
 
 ## Conceptual data model
 
-![Alt text](image-9.png)
+![Alt text](readmeFiles/image-9.png)
 
 ## Logical data model
 
-![Alt text](image-10.png)
+![Alt text](readmeFiles/image-10.png)
