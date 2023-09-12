@@ -107,3 +107,28 @@ This work was carried out as part of our end-of-studies project, which aimed to 
 ### Sales point temporarily added. 
 
 ![Alt text](workFiles/image-14.png)
+
+# Getting Started
+
+These instructions will help you clone and set up the project on your local machine.
+
+### Prerequisites
+
+Before you begin, make sure you have the following installed on your development machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [React Native CLI](https://reactnative.dev/docs/environment-setup)
+
+### Installing
+
+Follow these steps to get the project up and running:
+
+1. Clone the repository to your local machine:
+
+   ```shell
+   git clone https://github.com/Nouakchi/BonusMan.git
+   cd project-name
+   npm install
+   npx react-native start
+   ```
