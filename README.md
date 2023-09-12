@@ -43,3 +43,10 @@ Logical data modeling that takes into account the organizational level of data. 
 ## Logical data model
 
 ![Alt text](readmeFiles/image-10.png)
+
+# THE APPLICATION
+
+This work was carried out as part of our end-of-studies project, which aimed to design and develop a mobile application for the management and tracking of orders for Moroccan grocers. We have successfully created this application, which will provide the opportunity to replace the supply chain and avoid being among the victims of system breakdown.
+
+![Alt text](image.png)      ![Alt text](image-1.png) ![Alt text](image-2.png)
+![Alt text](image-3.png)    ![Alt text](image-4.png) ![Alt text](image-5.png)
