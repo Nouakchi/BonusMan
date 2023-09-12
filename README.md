@@ -4,31 +4,31 @@ This project aims to design and develop a mobile application for the management 
 
 # The supply chain, a complex network.
 
-![Alt text](image.png)
+![Alt text](readmeFiles/readmeFiles/image.png)
 
 # Solution
 
 To address this issue, we propose to add BONUS MANS or delivery agents to balance the load when there is a gap in the supply chain. With this solution, grocers will no longer need to wait for the chain as they used to. Instead, they can simply browse the products, place an order, and a BONUS MAN will deliver it - that's it!
 
-![Alt text](image-1.png)
+![Alt text](readmeFiles/image-1.png)
 
 ## some use cases
 
-![Alt text](image-2.png)
+![Alt text](readmeFiles/image-2.png)
 
-![Alt text](image-3.png)
+![Alt text](readmeFiles/image-3.png)
 
-![Alt text](image-4.png)
+![Alt text](readmeFiles/image-4.png)
 
-![Alt text](image-5.png)
+![Alt text](readmeFiles/image-5.png)
 
 ## Some Sequence diagram
 
-![Alt text](image-6.png)
+![Alt text](readmeFiles/image-6.png)
 
-![Alt text](image-7.png)
+![Alt text](readmeFiles/image-7.png)
 
-![Alt text](image-8.png)
+![Alt text](readmeFiles/image-8.png)
 
 # CDM , LDM
 
